@@ -1,2 +1,2 @@
 # project-demo
-author - usman
+author - muhammad usman
